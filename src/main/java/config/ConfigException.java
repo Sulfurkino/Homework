@@ -1,4 +1,4 @@
-package Exception.config;
+package config;
 
 public class ConfigException extends RuntimeException {
     public ConfigException(String message) {

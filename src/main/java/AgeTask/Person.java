@@ -1,4 +1,4 @@
-package Exception.AgeTask;
+package AgeTask;
 
 public class Person {
     public void setAge(int age) throws InvalidAgeException {

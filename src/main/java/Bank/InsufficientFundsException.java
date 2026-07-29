@@ -1,4 +1,4 @@
-package Exception.Bank;
+package Bank;
 
 public class InsufficientFundsException extends RuntimeException {
     public InsufficientFundsException(String message) {

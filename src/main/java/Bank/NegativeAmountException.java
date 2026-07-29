@@ -1,4 +1,4 @@
-package Exception.Bank;
+package Bank;
 
 public class NegativeAmountException extends RuntimeException {
     public NegativeAmountException(String message) {

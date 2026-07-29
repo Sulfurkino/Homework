@@ -1,4 +1,4 @@
-package Exception.config;
+package config;
 
 public class Config {
     public void parseConfig(String path) throws ConfigException{

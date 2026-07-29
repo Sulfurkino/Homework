@@ -1,4 +1,4 @@
-package Exception.Bank;
+package Bank;
 
 public class AccountBlockedException extends RuntimeException {
     public AccountBlockedException(String message) {

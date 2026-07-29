@@ -1,4 +1,5 @@
-package Exception.config;
+package config;
+//хочу сделать очно, возникли вопросы, это по сути не решение
 
 public class confMain {
     public static void main(String[] args) {

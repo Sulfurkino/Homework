@@ -1,4 +1,4 @@
-package Exception;
+package Calculator;
 
 public class InvalidNumber extends RuntimeException {
     public InvalidNumber(String message) {
