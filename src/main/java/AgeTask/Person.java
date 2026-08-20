@@ -9,4 +9,14 @@ public class Person {
             throw new InvalidAgeException("Ты слишком старый, ложись в гроб");
         }
     }
+
+    int age;
+
+    public Person(int age) {
+        this.age = age;
+    }
+
+    public int getAge() {
+        return age;
+    }
 }

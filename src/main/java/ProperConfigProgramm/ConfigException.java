@@ -1,4 +1,4 @@
-package config;
+package ProperConfigProgramm;
 
 public class ConfigException extends RuntimeException {
     public ConfigException(String message) {
